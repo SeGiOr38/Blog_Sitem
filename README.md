@@ -1,6 +1,6 @@
 # 🌐 Sedef Gizem'in Kişisel Blogu
 
-Merhabalar! Bu proje, HTML ve CSS kullanılarak geliştirdiğim kişisel blog ve tanıtım sitemdir. Modern tasarım anlayışı, sade kullanıcı deneyimi ve estetik detaylarla dijital kimliğimi yansıtmayı hedefledim.
+Merhabalar! Bu proje, HTML ve CSS kullanarak geliştirdiğim kişisel blog ve tanıtım sitemdir. Modern tasarım anlayışı, sade kullanıcı deneyimi ve estetik detaylarla dijital kimliğimi yansıtmayı hedefledim.
 
 ---
 
@@ -48,7 +48,7 @@ Merhabalar! Bu proje, HTML ve CSS kullanılarak geliştirdiğim kişisel blog ve
 
 ## 📌 Notlar
 
-Bu proje, kişisel gelişim sürecimin bir parçası olarak hazırlanmıştır. Kodlama, tasarım ve yayınlama süreçlerini adım adım öğrenerek ilerledim. Geri bildirimlere her zaman açığım!
+Bu projeyi, kişisel gelişim sürecimin bir parçası olarak hazırladım. Kodlama, tasarım ve yayınlama süreçlerini adım adım öğrenerek ilerledim. Geri bildirimlere her zaman açığım!
 
 ---
 
